@@ -40,12 +40,25 @@ Created a new column to show the duration of data plans.
 This tool was used to clean the dataset, remove duplicates and empty cells, it was also used to create Pivot Table to showcase insights geneated from the data,Excel was used to create a new column that calculate the duration of customer's data plan.
 1.	Data Preparation
 •	Data cleaning : Eliminated duplicated records to ensure Data Quality.
+
+
+![Screenshot 2024-11-04 131317 pngduplicate values png2](https://github.com/user-attachments/assets/3feec180-3780-4f00-9e29-cf5fbc39ec74)
+
 •	New columns calculated : Calculated the time between subscription start and subscription end date for each subscriber.
-2.	Subscription Statistics
+
+![extra column](https://github.com/user-attachments/assets/b52ede58-027a-4698-a2b7-f195213e005e)
+
+3.	Subscription Statistics
    Displayed subscriber count, average subscription duration, average monthly revenue, and most popular subscription type.
-3.	Customer Distribution and Segmentation
+4.	Customer Distribution and Segmentation
 •	Subscription count by type : Created pivot tables to display counts for each subscription type 
 •	Subscriber segmentation : Used pivot tables to display information of subscriber's activity (retained, canceled)
+
+![pivot table 2](https://github.com/user-attachments/assets/f5beba56-5f79-46e6-9e03-2e8b0f34920d)
+
+5. Created visualization of different key insights using Excel: Top performing subscription plan, Average sales,Total sales,Retained customers,Cancelled customers.
+   
+![EXCEL VISUAL 2](https://github.com/user-attachments/assets/21916655-fc32-4476-8c61-dc0c15364f28)
 
 ### Analysing with Sql
 The following key insights was queried;
