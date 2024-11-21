@@ -11,6 +11,7 @@
 - [CONCLUSION](#conclusion)
 ### Introduction: 
  In today’s dynamic marketplace,it is crucial to have an understanding of customer subscription behaviour to enable Subscription-based businesses to foster long-term growth and strengthening customer commitment.Analyzing data like this creates a significant opportunity for businesses by utilizing data insights to refine marketing strategies and enhance customer experiences. This project investigates customer subscription plans to uncover patterns that impact cancellations and retention. The dataset consists of transaction records and associated information. By utilizing tools like: Excel , SQL( Structured Query Language) and Power BI. The dataset was carefully cleaned, analyzed, and visualized, providing a clearer perspective of the company's subscription dynamics and revealing opportunities for enhancement.
+
 ---------
 
 ### Data Description 
